@@ -1,0 +1,2 @@
+# belajardjango
+mulai belajar django
